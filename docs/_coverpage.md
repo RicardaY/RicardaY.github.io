@@ -7,4 +7,4 @@
 - 众多功能等你探索
 
 [GitHub](https://github.com/RicardaY/yys.git)
-[快速开始](?id=headline)
+[快速开始](?id=前言)
