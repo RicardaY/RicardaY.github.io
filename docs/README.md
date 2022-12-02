@@ -6,7 +6,7 @@
 
 >2.下载阴阳师apk:雷电推荐此优化版本 【[点我下载](https://g37.gdl.netease.com/onmyoji_cps_mumu_1.7.46.apk)】，mumu可在模拟器商店自行下载。下载完启动阴阳师，进入游戏界面。</br><font color = "#a107a4">注：游戏内庭院皮肤需使用默认皮或者帝释天皮；若式神委派没领，会有一只红色蝴蝶导致识别不到探索灯笼</font>
 
->3.打开助手后点击<font color = "#42b983">注册</font>获取试用时长。然后点击<font color = "#42b983">登录</font>，输入刚注册的账密即可。
+>3.助手下载链接：[蓝奏云][点我下载](https://ricarda.lanzouq.com/b01vbp6te),<font color = "#f00">密码1234</font>打开助手后点击<font color = "#42b983">注册</font>获取试用时长。然后点击<font color = "#42b983">登录</font>，输入刚注册的账密即可。
 
 >4.拖动助手内<font color = "#42b983">绿色句柄图标</font>对准模拟器内部的游戏窗口，待右侧文本框出现模拟器名称即可。
 
