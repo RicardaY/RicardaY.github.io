@@ -6,7 +6,7 @@
 
 >2.下载阴阳师apk:雷电推荐此优化版本 【[点我下载](https://g37.gdl.netease.com/onmyoji_cps_mumu_1.7.46.apk)】，mumu可在模拟器商店自行下载。下载完启动阴阳师，进入游戏界面。</br><font color = "#a107a4">注：游戏内庭院皮肤需使用默认皮或者帝释天皮；若式神委派没领，会有一只红色蝴蝶导致识别不到探索灯笼</font>
 
->3.助手下载链接：[蓝奏云][点我下载](https://ricarda.lanzouq.com/b01vbp6te),<font color = "#f00">密码1234</font>打开助手后点击<font color = "#42b983">注册</font>获取试用时长。然后点击<font color = "#42b983">登录</font>，输入刚注册的账密即可。
+>3.助手下载链接：[蓝奏云][点我下载](https://ricarda.lanzouq.com/b01vbp6te)，<font color = "#f00">密码1234</font>打开助手后点击<font color = "#42b983">注册</font>获取试用时长。然后点击<font color = "#42b983">登录</font>，输入刚注册的账密即可。
 
 >4.拖动助手内<font color = "#42b983">绿色句柄图标</font>对准模拟器内部的游戏窗口，待右侧文本框出现模拟器名称即可。
 
@@ -23,7 +23,7 @@
 <img src= "img/探索.png" style="zoom: 80%;"></img>
 ### 突破
 >突破分为<font color = "#42b983">个人突破</font>和<font color = "#B95EE6">寮突</font>，若选择个人突破，则右侧寮突不生效，反之亦然。</br><font color = "#42b983">个人突破</font>：分为<font color = "#42b983">正常突破</font>与<font color = "#42b983">退四打九</font>(<font color = "#F973BF">解释：卡57级，勋章多、且好打</font>)，根据个人需求选择即可。</br>
-<font color = "#B95EE6">寮突</font>：若选择<font color = "#B95EE6">等待冷却</font>：6次用完则会原地等待；若选择<font color = "#B95EE6">不等待冷却</font>，会退出寮突，继续任务列表的下一个任务。</br>
+<font color = "#B95EE6">寮突</font>：若选择<font color = "#B95EE6">等待冷却</font>：6次用完则会原地等待；若选择<font color = "#B95EE6">不等待冷却</font>，次数用尽会退出寮突，继续任务列表的下一个任务。</br>
 
 <img src= "img/突破.png" style="zoom: 80%;"></img>
 ### 休息
