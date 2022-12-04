@@ -33,7 +33,7 @@
 ><font color = "#F973BF">举例</font>：定时功能开启了自动寄养，在任务列表添加10条休息60分钟的任务，那么将会先检测一次寄养，然后开始休息，60分钟后会再检测一次寄养，继续第二次休息......，直到10次休息完毕为止。
 ### 御魂预设
 >开启<font color = "#42b983">御魂预设</font>功能后，将会在每次任务开始前进式神录切换队伍的御魂。</br>
-<font color = "#42b983">组</font>代表<font color = "#F973BF">右边的分组</font>；<font color = "#42b983">队</font>代表<font color = "#F973BF ">左边的队伍</font>。</br>
+<font color = "#42b983">组</font>代表<font color = "#F973BF">游戏中右边的分组</font>；<font color = "#42b983">队</font>代表<font color = "#F973BF ">游戏中左边的队伍</font>。</br>
 
 <img src= "img/预设.png" style="zoom: 50%;"></img></br>
 ><font color = "#FF5733">注意：式神录皮肤需设为默认</font>
